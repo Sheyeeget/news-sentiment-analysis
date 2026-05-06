@@ -1,0 +1,13 @@
+# Python 
+__pycache__/ 
+*.pyc 
+venv/ 
+.env 
+*.so 
+*.egg-info/ 
+dist/ 
+build/ 
+data/raw/*.csv 
+data/raw/*.zip 
+.ipynb_checkpoints/ 
+.vscode/ 
